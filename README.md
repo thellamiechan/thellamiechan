@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thellamiechan, Julie Powell
 - 👀 I’m interested in Irish History, Classical History, and Tea!!
-- 🌱 I’m currently learning React in She Codes Plus 2023 (also HTML, CSS, Django, and DRF)
-- 💞️ I’m looking to collaborate on nothing right now
+- 🌱 I’m currently learning to make websites from scratch. I use Django and React. 
+- 💞️ I’m not looking to collaborate on anything right now
 - 📫 How to reach me linkedin.com/in/julie-powell-a44184249
 
 <!---
